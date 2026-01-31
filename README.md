@@ -71,3 +71,12 @@ References
 Bennett, C. H., & Brassard, G. (1984). Quantum cryptography: Public key distribution and coin tossing.
 
 Ekert, A. K. (1991). Quantum cryptography based on Bell’s theorem.
+
+
+
+## 👤 Author
+
+**Omjee Chauhan**  
+Research & Development – Quantum Computing / QKD  
+GitHub: https://github.com/omJee-js
+
